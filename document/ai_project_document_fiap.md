@@ -1,6 +1,6 @@
 
 <![image](https://github.com/user-attachments/assets/e31997b8-57ba-46a0-ae03-002e92aee8f6)
-) Faculdade de Informática e Admnistração Paulista
+ Faculdade de Informática e Admnistração Paulista
 
 
 # AI Project Document - Módulo 1 - FIAP
